@@ -1,4 +1,4 @@
-# Gitpod Workspace Full VNC
+# Cloud Desktop
 
 Gitpod Workspace Full VNC
 
