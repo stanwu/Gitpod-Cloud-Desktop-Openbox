@@ -1,6 +1,6 @@
 # Cloud Desktop
 
-Gitpod Workspace Full VNC
+Desktop : 1920x1080
 
 ![alt Desktop](https://i.imgur.com/QxPUGV9.png)
 
