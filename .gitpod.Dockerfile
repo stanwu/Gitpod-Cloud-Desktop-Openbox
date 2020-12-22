@@ -2,11 +2,6 @@ FROM gitpod/workspace-full-vnc
 
 USER gitpod
 
-# Install custom tools, runtime, etc. using apt-get
-# For example, the command below would install "bastet" - a command line tetris clone:
-#
 RUN sudo apt-get -q update && \
-    sudo apt-get install -yq firefox && \
+    sudo apt-get install -yq firefox install language-pack-zh* language-pack-ja language-pack-ko japan* chinese* korean* && \
     sudo rm -rf /var/lib/apt/lists/*
-#
-# More information: https://www.gitpod.io/docs/config-docker/
