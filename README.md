@@ -7,19 +7,21 @@ Desktop : 1920x1080
 
 ### Step 1.
 
-**Open port 6080 via browser to connect desktop**
+Open [Cloud Desktop](https://gitpod.io/#https://github.com/stanwu/Cloud-Desktop)
+
+### Step 2.
+
+**Open port 6080 via Browser to connect desktop**
 
 ![alt step1](https://i.imgur.com/pMIjKOH.png)
 
-### Step 2.
+### Step 3.
 
 **Right Click to open menu on Desktop**
 
 ![alt Desktop](https://i.imgur.com/QxPUGV9.png)
 
-### Step 3.
-
-**Enjoy your own desktop**
+### Enjoy your own desktop
 
 - Add Firefox and VScode
 ![alt vsc](https://i.imgur.com/t2mfGFs.png)
