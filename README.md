@@ -1,7 +1,8 @@
-# Cloud Desktop
+# Cloud Desktop (Openbox)
 
 **Please open this project via Gitpod**
 
+You will get a real desktop environment after open this project from Gitpod
 Desktop : 1920x1080
 
 ![alt Desktop](https://i.imgur.com/QxPUGV9.png)
