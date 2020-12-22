@@ -7,6 +7,8 @@ Gitpod Workspace Full VNC
 - Add Firefox
 ![alt Firefox](https://i.imgur.com/hgIu3a4.png)
 
+- Add VScode
+![alt vsc](https://i.imgur.com/t2mfGFs.png)
 
 **Open port 6080 via browser to connect desktop**
 
