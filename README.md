@@ -7,7 +7,7 @@ Desktop : 1920x1080
 
 ### Step 1.
 
-Open [Cloud Desktop](https://gitpod.io/#https://github.com/stanwu/Cloud-Desktop)
+Open [Cloud Desktop](https://gitpod.io/#https://github.com/stanwu/Cloud-Desktop) via Gitpod
 
 ### Step 2.
 
@@ -18,6 +18,8 @@ Open [Cloud Desktop](https://gitpod.io/#https://github.com/stanwu/Cloud-Desktop)
 ### Step 3.
 
 **Right Click to open menu on Desktop**
+
+- swith your Chrome or browser to fullscreen (1920x1080 best resolution)
 
 ![alt Desktop](https://i.imgur.com/QxPUGV9.png)
 
