@@ -1,4 +1,4 @@
-# Cloud Desktop (Openbox)
+# Cloud Desktop + Android Studio 
 
 **Please open this project via Gitpod**
 
@@ -23,14 +23,8 @@
 
 ![alt Desktop](https://i.imgur.com/QxPUGV9.png)
 
-### Enjoy your own desktop
+### Open Terminal to launch Android Studio
 
-- Add Firefox and VScode
-
-![alt vsc](https://i.imgur.com/t2mfGFs.png)
-
-- Add Remote Desktop
-
-![alt rdp](https://i.imgur.com/hZDTxJv.png)
+![alt vsc](https://i.imgur.com/uyvyf2F.png)
 
 
