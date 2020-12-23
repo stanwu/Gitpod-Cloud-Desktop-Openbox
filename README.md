@@ -27,6 +27,6 @@
 
 - Open Terminal to launch Android Studio
 
-![alt vsc](https://i.imgur.com/uyvyf2F.png)
+![alt vsc](https://i.imgur.com/Ty0YxQ0.png)
 
 
