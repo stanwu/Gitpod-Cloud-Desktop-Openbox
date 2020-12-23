@@ -2,12 +2,12 @@
 
 **Please open this project via Gitpod**
 
-You will get a real desktop environment after open this project from Gitpod
-Desktop : 1920x1080
+- You will get a real desktop environment after open this project from Gitpod
+- Desktop : 1920x1080
 
 ### Step 1.
 
-Open [Cloud Desktop](https://gitpod.io/#https://github.com/stanwu/Cloud-Desktop) via Gitpod
+- Open [Cloud Desktop](https://gitpod.io/#https://github.com/stanwu/Cloud-Desktop) via Gitpod
 
 ### Step 2.
 
@@ -26,9 +26,11 @@ Open [Cloud Desktop](https://gitpod.io/#https://github.com/stanwu/Cloud-Desktop)
 ### Enjoy your own desktop
 
 - Add Firefox and VScode
+
 ![alt vsc](https://i.imgur.com/t2mfGFs.png)
 
 - Add Remote Desktop
+
 ![alt rdp](https://i.imgur.com/hZDTxJv.png)
 
 
