@@ -7,7 +7,7 @@
 
 ### Step 1.
 
-- (Install browser extension)[https://www.gitpod.io/docs/browser-extension/]
+- [Install browser extension](https://www.gitpod.io/docs/browser-extension/)
 - Open [Cloud Desktop](https://gitpod.io/#https://github.com/stanwu/Cloud-Desktop) via Gitpod
 
 ### Step 2.
