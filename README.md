@@ -2,11 +2,12 @@
 
 **Please open this project via Gitpod**
 
-- You will get a real desktop environment after open this project from Gitpod
+- You will get a real desktop environment after open this project from [Gitpod](https://www.gitpod.io/docs/browser-extension/)
 - Desktop : 1920x1080
 
 ### Step 1.
 
+- (Install browser extension)[https://www.gitpod.io/docs/browser-extension/]
 - Open [Cloud Desktop](https://gitpod.io/#https://github.com/stanwu/Cloud-Desktop) via Gitpod
 
 ### Step 2.
